@@ -88,9 +88,10 @@
     }
 
     .fixed {
-        position: relative;
-        bottom: auto;
-        width: auto;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        left:0;
     }
 }
 
